@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import Formulario from "./components/formulario";
+import Formulario from "./components/Formulario";
 // import TodoFilter from "./components/TodoFilter";
 const App = () => {
   return (
