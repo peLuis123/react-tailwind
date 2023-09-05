@@ -20,7 +20,7 @@ const initialStateTodos = [
     completed: false,
   },
 ];
-const Formulario = () => {
+const Form = () => {
   const [todos, setTodos] = useState(initialStateTodos);
   const addTodo = (title) => {
     const newTodo = {
@@ -42,4 +42,4 @@ const Formulario = () => {
     </>
   );
 };
-export default Formulario;
+export default Form;
