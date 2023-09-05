@@ -1,4 +1,4 @@
-import TodoCreate from "./todoCreate";
+import TodoCreate from "./TodoCreate";
 import TodoList from "./TodoList";
 import TodoComputed from "./todoComputed";
 import TodoFilter from "./TodoFilter";
