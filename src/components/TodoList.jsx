@@ -1,4 +1,4 @@
-import TodoItem from "./todo.item";
+import TodoItem from "./TodoItem";
 const TodoList = ({ todos }) => {
   // console.log(todos);
   return (
